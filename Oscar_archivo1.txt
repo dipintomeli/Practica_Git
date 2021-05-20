@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Archivo 1 practica Git // Realizando punto 7 //
-=======
-Alteración de linea Uno por Diego
->>>>>>> a111a8153507423c59bde2d2cda9aa929e03e6bc
