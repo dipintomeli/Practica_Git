@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Agregando modificación 1
+=======
+Archivo de Practica Archivo Uno
+>>>>>>> e5f4a5c88cbd13fe0dbb814981bb0cc1898c295a
