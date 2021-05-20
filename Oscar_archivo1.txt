@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Alteración de archivo 2
 Realizado por Diego Pinto
+=======
+Archivo 1 practica Git // Realizando punto 7 //
+Editando los archivos
+.
+.
+.
+>>>>>>> 529eec52d2d6d91a426220b5f9ab8a646a5cd865
