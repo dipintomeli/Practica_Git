@@ -1,1 +1,2 @@
-Archivo 3 practica Git
+Alteración de archivo 2
+Realizado por Diego Pinto
