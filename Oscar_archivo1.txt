@@ -1,1 +1,5 @@
 Archivo 1 practica Git // Realizando punto 7 //
+Editando los archivos
+.
+.
+.
